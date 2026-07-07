@@ -40,4 +40,8 @@ The next stage of this project will include:
 
 ## Project Status
 
-Dataset construction is complete. Analysis scripts and statistical outputs will be added next.
+## Project Status
+
+This project is now complete as a constituency-level empirical research project.
+
+The repository includes the cleaned dataset, Python analysis notebooks, final research paper, regression outputs, robustness checks, and diagnostic figures. The main analysis uses OLS regression with HC3 robust standard errors to examine whether socioeconomic and security indicators are associated with electoral competitiveness in Bangladesh.
