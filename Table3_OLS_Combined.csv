@@ -1,0 +1,12 @@
+Variable,Model 1,Model 2,Model 3
+Constant,\makecell[r]{75.2771***\\(10.1987)},\makecell[r]{68.6113***\\(13.9463)},\makecell[r]{37.2226\\(27.8926)}
+Population density,\makecell[r]{-0.0001**\\(0.0001)},\makecell[r]{-0.0002**\\(0.0001)},\makecell[r]{-0.0003**\\(0.0002)}
+Household size,\makecell[r]{0.6930\\(1.3534)},\makecell[r]{0.6214\\(1.3378)},\makecell[r]{1.2428\\(2.6755)}
+Literacy rate,\makecell[r]{-0.0255\\(0.0844)},\makecell[r]{-0.0500\\(0.0845)},\makecell[r]{-0.1000\\(0.1691)}
+Total crime per 100k,\makecell[r]{-0.1890***\\(0.0481)},\makecell[r]{-0.1643***\\(0.0589)},\makecell[r]{-0.3285***\\(0.1178)}
+Violent crime per 100k,\makecell[r]{0.1737\\(0.1779)},\makecell[r]{0.2166\\(0.1836)},\makecell[r]{0.4333\\(0.3672)}
+Metro,\makecell[r]{-1.4813\\(1.9325)},\makecell[r]{-1.4468\\(1.9227)},\makecell[r]{-2.8935\\(3.8454)}
+Log remittance households,,\makecell[r]{0.5471\\(0.6094)},\makecell[r]{1.0942\\(1.2188)}
+N,297,297,297
+R-squared,,,0.105
+Adjusted R-squared,,,0.084
